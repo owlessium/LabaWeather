@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "889069895847",
+    "firebase_url": "https://laba-6a450-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "laba-6a450",
+    "storage_bucket": "laba-6a450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889069895847:android:e7d416a70b58aed55a5b82",
+        "android_client_info": {
+          "package_name": "com.example.labaweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889069895847-6tt0nh1nm0ikv84aiomacj36g5nuumqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF20BvDXU9DYLPphyPv_TOHOK60ST6zgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889069895847-6tt0nh1nm0ikv84aiomacj36g5nuumqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
